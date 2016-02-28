@@ -1,0 +1,24 @@
+_repo: The-Mayflower-and-Her-Log-July-15-1620-May-6-1621-Volume-5_4105
+creator:
+  author:
+    agent_name: Ames, Azel
+    birthdate: 1845
+    deathdate: 1908
+    gutenberg_agent_id: '1392'
+    url: http://www.gutenberg.org/2009/agents/1392
+description: ''
+gutenberg_issued: '2003-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pilgrims (New Plymouth Colony)'
+- !lcsh 'Massachusetts -- History -- New Plymouth, 1620-1691'
+- !lcsh 'Mayflower (Ship)'
+- !lcc 'F001'
+title: The Mayflower and Her Log; July 15, 1620-May 6, 1621 — Volume 5
+url: http://www.gutenberg.org/ebooks/4105
